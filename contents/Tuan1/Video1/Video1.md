@@ -1,19 +1,4 @@
- 
 
-<!--  -->
-#### ĐIỀN DỮ LIỆU TỰ ĐỘNG
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-10.png)
-
-#### XÓA DỮ LIỆU BỊ TRÙNG
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-11.png)
-
-#### THỐNG KÊ MÔ TẢ
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-12.png)
-
-### Thực hành
 
 <!-- "Bỏ vùng trộn (merge) -->
 
