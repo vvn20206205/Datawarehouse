@@ -1,15 +1,17 @@
-        
+# Tuần 1: Thực hành tiền xử lý dữ liệu (ETL) cơ bản trong Excel:
 
-## Video 2
+[Video1](Video1.md)
 
-## Video 3
+[Video2](Video2.md)
 
-## Video 4
+[Video3](Video3.md)
 
-## Video 5
+[Video4](Video4.md)
 
-## Video 6
+[Video5](Video5.md)
 
-## Video 7
+[Video6](Video6.md)
 
-## Video 8
+[Video7](Video7.md)
+
+[Video8](Video8.md)
