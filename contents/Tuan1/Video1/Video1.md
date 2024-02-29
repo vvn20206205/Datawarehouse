@@ -1,19 +1,5 @@
  
 
-#### TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT
-
-##### Tách ngày tháng
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/8.png)
-
-##### Tách địa chỉ
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/9.png)
-
-##### Tách họ và tên
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/10.png)
-
 <!--  -->
 #### ĐIỀN DỮ LIỆU TỰ ĐỘNG
 
