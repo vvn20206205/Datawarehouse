@@ -4,7 +4,7 @@
 
 <!-- - Sao chép thông thường -->
 <!-- Sao chép thông thường cột thành tiền -->
-<!-- ![alt text](../image.png) -->
+<!-- ![alt text](HuongDan/image.png) -->
 <!-- - Sao chép   theo seri		 -->
 <!-- Sao chép   theo seri	số thứ tự  -->
 <!-- ![alt text](HuongDan/image-2.png) -->
