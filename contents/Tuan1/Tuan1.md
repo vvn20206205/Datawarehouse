@@ -14,7 +14,9 @@
 
 #### Sắp xếp dữ liệu theo giá trị, màu,…
 
-#### Sắp xếp dữ liệu theo yêu cầu đặc thù
+![alt text](image-1.png)
+
+<!-- #### Sắp xếp dữ liệu theo yêu cầu đặc thù -->
 
 ### LỌC DỮ LIỆU
 
