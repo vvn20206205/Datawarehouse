@@ -3,7 +3,7 @@
 
 ##### Sắp xếp dữ liệu theo 1 tiêu chí
 
-![Sắp xếp theo STT](HuongDan/11.png)
+![Sắp xếp theo STT](HuongDan/1.png)
 
 ##### Sắp xếp dữ liệu nhiều tiêu chí
 
