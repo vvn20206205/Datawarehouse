@@ -1,15 +1,4 @@
  
-<!--  -->
-
-#### LỌC DỮ LIỆU NÂNG CAO
-
-##### Lọc dữ liệu theo 1 tiêu chí
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-5.png)
-
-##### Lọc xếp dữ liệu nhiều tiêu chí
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-6.png)
 
 #### TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT
 
@@ -25,6 +14,7 @@
 
 ![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-9.png)
 
+<!--  -->
 #### ĐIỀN DỮ LIỆU TỰ ĐỘNG
 
 ![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-10.png)
