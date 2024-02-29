@@ -1,6 +1,7 @@
 ## Video 5
 
-<!-- ### Hướng dẫn -->
+### Hướng dẫn
+.....
 
 ### Thực hành
 Không có bài tập thực hành
