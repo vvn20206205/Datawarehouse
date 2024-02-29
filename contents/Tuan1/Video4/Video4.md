@@ -7,7 +7,7 @@
 <!-- ![alt text](../image.png) -->
 <!-- - Sao chép   theo seri		 -->
 <!-- Sao chép   theo seri	số thứ tự  -->
-<!-- ![alt text](../image-2.png) -->
+<!-- ![alt text](HuongDan/image-2.png) -->
 <!--  -->
 <!-- copy paste công thức		 -->
 <!-- copy paste định dạng		 -->
