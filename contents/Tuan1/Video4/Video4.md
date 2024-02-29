@@ -3,10 +3,10 @@
 <!-- ### Hướng dẫn -->
 <!-- - Sao chép thông thường -->
 <!-- Sao chép thông thường cột thành tiền -->
-<!-- ![alt text](image.png) -->
+<!-- ![alt text](../image.png) -->
 <!-- - Sao chép   theo seri		 -->
 <!-- Sao chép   theo seri	số thứ tự  -->
-<!-- ![alt text](image-2.png) -->
+<!-- ![alt text](../image-2.png) -->
 <!--  -->
 <!-- copy paste công thức		 -->
 <!-- copy paste định dạng		 -->
@@ -45,4 +45,4 @@ Làm thế nào để ô F7 giống hệt ô C7 cả về giá trị lẫn màu 
 
                                                     
 Đổi tên tiêu đề và sao chép giá trị, màu sắc
-![alt text](Video4/image-3.png)
+![alt text](image-3.png)
