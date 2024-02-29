@@ -31,9 +31,9 @@
 ### LỌC DỮ LIỆU NÂNG CAO
 
 #### Lọc dữ liệu theo 1 tiêu chí
-
+![alt text](image-5.png)
 #### Lọc xếp dữ liệu nhiều tiêu chí
-
+![alt text](image-6.png)
 ### TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT
 
 #### Tách ngày tháng
