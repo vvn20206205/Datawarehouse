@@ -1,23 +1,47 @@
-Tuần 1: Thực hành tiền xử lý dữ liệu (ETL) cơ bản trong Excel:
+# Tuần 1: Thực hành tiền xử lý dữ liệu (ETL) cơ bản trong Excel:
 
-<!-- I. SẮP XẾP DỮ LIỆU    -->
+## Video1
+
+### SẮP XẾP DỮ LIỆU
 
 - Sắp xếp dữ liệu theo 1 tiêu chí
+![alt text](image.png)
 - Sắp xếp dữ liệu nhiều tiêu chí
 - Sắp xếp dữ liệu theo giá trị, màu,…
 - Sắp xếp dữ liệu theo yêu cầu đặc thù
-<!-- II. LỌC DỮ LIỆU    -->
+
+### LỌC DỮ LIỆU
+
 - Lọc dữ liệu theo 1 tiêu chí
 - Lọc xếp dữ liệu nhiều tiêu chí
-<!-- III. LỌC DỮ LIỆU NÂNG CAO    -->
+
+### LỌC DỮ LIỆU NÂNG CAO
+
 - Lọc dữ liệu theo 1 tiêu chí
 - Lọc xếp dữ liệu nhiều tiêu chí
-<!-- IV. TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT    -->
+
+### TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT
+
 - Tách ngày tháng
 - Tách địa chỉ
 - Tách họ và tên
-<!-- V. ĐIỀN DỮ LIỆU TỰ ĐỘNG  -->
 
-<!-- VI. XÓA DỮ LIỆU BỊ TRÙNG -->
+### ĐIỀN DỮ LIỆU TỰ ĐỘNG
 
-<!-- VII. THỐNG KÊ MÔ TẢ -->
+### XÓA DỮ LIỆU BỊ TRÙNG
+
+### THỐNG KÊ MÔ TẢ
+
+## Video2
+
+## Video3
+
+## Video4
+
+## Video5
+
+## Video6
+
+## Video7
+
+## Video8
