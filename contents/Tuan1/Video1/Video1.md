@@ -1,16 +1,4 @@
-
-#### SẮP XẾP DỮ LIỆU
-
-##### Sắp xếp dữ liệu theo 1 tiêu chí
-
-![Sắp xếp theo STT](HuongDan/1.png)
-
-##### Sắp xếp dữ liệu nhiều tiêu chí
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image.png)
-
-##### Sắp xếp dữ liệu theo giá trị, màu,…
-
+ 
 ![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-1.png)
 <!--  -->
 #### LỌC DỮ LIỆU
