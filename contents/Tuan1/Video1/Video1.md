@@ -1,6 +1,3 @@
-## Video 1
-
-### Hướng dẫn
 
 #### SẮP XẾP DỮ LIỆU
 
@@ -15,7 +12,7 @@
 ##### Sắp xếp dữ liệu theo giá trị, màu,…
 
 ![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-1.png)
-
+<!--  -->
 #### LỌC DỮ LIỆU
 
 ##### Lọc dữ liệu theo 1 tiêu chí
