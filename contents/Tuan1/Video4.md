@@ -34,5 +34,15 @@
 - paste trong excel chỉ ra định dạng text -->
 
 ### Thực hành
+
+
+Đố bạn chỉ dùng copy paste mà làm được việc này? :)													
+Làm thế nào để ô F7 giống hệt ô C7 cả về giá trị lẫn màu sắc mà chỉ sử dụng COPY and PASTE													
+2	2			3		KHÔNG được gõ phím							
+						99% học viên mình từng dạy đã KHÔNG làm được việc đơn giản này. Còn bạn thì sao?							
+													
+													
+
+                                                    
 Đổi tên tiêu đề và sao chép giá trị, màu sắc
 ![alt text](Video4/image-3.png)
