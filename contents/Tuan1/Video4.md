@@ -34,3 +34,5 @@
 - paste trong excel chỉ ra định dạng text -->
 
 ### Thực hành
+Đổi tên tiêu đề và sao chép giá trị, màu sắc
+![alt text](image-3.png)

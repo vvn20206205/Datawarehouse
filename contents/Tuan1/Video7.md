@@ -1,5 +1,5 @@
 ## Video 7
 
-### Hướng dẫn
+<!-- ### Hướng dẫn -->
 
 ### Thực hành
