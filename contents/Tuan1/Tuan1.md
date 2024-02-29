@@ -1,6 +1,4 @@
-<!-- Tuần 1 hướng dẫn  tiền xử lý dữ liệu cơ bản trong Excel: -->
-
-
+Tuần 1: Thực hành tiền xử lý dữ liệu (ETL) cơ bản trong Excel:
 
 <!-- I. SẮP XẾP DỮ LIỆU    -->
 
