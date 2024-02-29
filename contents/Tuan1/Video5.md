@@ -1,5 +1,5 @@
 ## Video 5
 
-### HuongDan
+### Hướng dẫn
 
-### ThucHanh
+### Thực hành
