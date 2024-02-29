@@ -10,3 +10,5 @@ Tuan*.pdf
 *.synctex.gz
 *.out
 *.toc
+*.lof
+*.synctex(busy)
