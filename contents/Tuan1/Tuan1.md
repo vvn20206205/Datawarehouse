@@ -42,11 +42,19 @@
 
 #### Tách ngày tháng
 
+![alt text](image-7.png)
+
 #### Tách địa chỉ
+
+![alt text](image-8.png)
 
 #### Tách họ và tên
 
+![alt text](image-9.png)
+
 ### ĐIỀN DỮ LIỆU TỰ ĐỘNG
+
+![alt text](image-10.png)
 
 ### XÓA DỮ LIỆU BỊ TRÙNG
 
