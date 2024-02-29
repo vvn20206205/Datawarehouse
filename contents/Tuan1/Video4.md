@@ -35,4 +35,4 @@
 
 ### Thực hành
 Đổi tên tiêu đề và sao chép giá trị, màu sắc
-![alt text](image-3.png)
+![alt text](Video4/image-3.png)
