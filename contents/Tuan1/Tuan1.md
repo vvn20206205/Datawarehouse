@@ -12,11 +12,11 @@
 
 ##### Sắp xếp dữ liệu nhiều tiêu chí
 
-![alt text](image.png)
+![alt text](Video1/image.png)
 
 ##### Sắp xếp dữ liệu theo giá trị, màu,…
 
-![alt text](image-1.png)
+![alt text](Video1/image-1.png)
 
 <!-- ##### Sắp xếp dữ liệu theo yêu cầu đặc thù -->
 
@@ -24,47 +24,47 @@
 
 ##### Lọc dữ liệu theo 1 tiêu chí
 
-![alt text](image-3.png)
+![alt text](Video1/image-3.png)
 
 ##### Lọc xếp dữ liệu nhiều tiêu chí
 
-![alt text](image-2.png)
+![alt text](Video1/image-2.png)
 
 #### LỌC DỮ LIỆU NÂNG CAO
 
 ##### Lọc dữ liệu theo 1 tiêu chí
 
-![alt text](image-5.png)
+![alt text](Video1/image-5.png)
 
 ##### Lọc xếp dữ liệu nhiều tiêu chí
 
-![alt text](image-6.png)
+![alt text](Video1/image-6.png)
 
 #### TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT
 
 ##### Tách ngày tháng
 
-![alt text](image-7.png)
+![alt text](Video1/image-7.png)
 
 ##### Tách địa chỉ
 
-![alt text](image-8.png)
+![alt text](Video1/image-8.png)
 
 ##### Tách họ và tên
 
-![alt text](image-9.png)
+![alt text](Video1/image-9.png)
 
 #### ĐIỀN DỮ LIỆU TỰ ĐỘNG
 
-![alt text](image-10.png)
+![alt text](Video1/image-10.png)
 
 #### XÓA DỮ LIỆU BỊ TRÙNG
 
-![alt text](image-11.png)
+![alt text](Video1/image-11.png)
 
 #### THỐNG KÊ MÔ TẢ
 
-![alt text](image-12.png)
+![alt text](Video1/image-12.png)
 
 ### Thực hành
 Thực hành các nội dung sau:						
