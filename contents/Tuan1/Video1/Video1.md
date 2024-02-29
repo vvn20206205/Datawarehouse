@@ -4,15 +4,15 @@
 
 ##### Tách ngày tháng
 
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-7.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/8.png)
 
 ##### Tách địa chỉ
 
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-8.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/9.png)
 
 ##### Tách họ và tên
 
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-9.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/10.png)
 
 <!--  -->
 #### ĐIỀN DỮ LIỆU TỰ ĐỘNG
