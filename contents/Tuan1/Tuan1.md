@@ -69,13 +69,11 @@
 ![alt text](Video1/HuongDan/image-12.png)
 
 ### Thực hành
-Thực hành các nội dung sau:						
+<!-- "Bỏ vùng trộn (merge) Đóng băng tiêu đề dữ liệu" -->
 - Tách họ và tên bằng các cách khác nhau (công thức, flash fill,..)					
 - Sắp xếp danh sách theo Tên nhân công					
 - Lập danh các chức vụ của mỗi bộ phận ( Remove Duplicates)					
                     
-"Bỏ vùng trộn (merge)
-Đóng băng tiêu đề dữ liệu"
 
 ## Video 2
 
