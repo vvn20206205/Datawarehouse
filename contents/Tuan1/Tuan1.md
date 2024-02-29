@@ -5,7 +5,7 @@
 ### SẮP XẾP DỮ LIỆU
 
 - Sắp xếp dữ liệu theo 1 tiêu chí
-![alt text](image.png)
+![alt text](Video1/image.png)
 - Sắp xếp dữ liệu nhiều tiêu chí
 - Sắp xếp dữ liệu theo giá trị, màu,…
 - Sắp xếp dữ liệu theo yêu cầu đặc thù
