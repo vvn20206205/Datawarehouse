@@ -21,9 +21,13 @@
 ### LỌC DỮ LIỆU
 
 #### Lọc dữ liệu theo 1 tiêu chí
+
 ![alt text](image-3.png)
+
 #### Lọc xếp dữ liệu nhiều tiêu chí
+
 ![alt text](image-2.png)
+
 ### LỌC DỮ LIỆU NÂNG CAO
 
 #### Lọc dữ liệu theo 1 tiêu chí
