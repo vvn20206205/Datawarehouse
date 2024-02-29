@@ -58,18 +58,22 @@
 
 ### XÓA DỮ LIỆU BỊ TRÙNG
 
+![alt text](image-11.png)
+
 ### THỐNG KÊ MÔ TẢ
 
-## Video2
+![alt text](image-12.png)
 
-## Video3
+## Video 2
 
-## Video4
+## Video 3
 
-## Video5
+## Video 4
 
-## Video6
+## Video 5
 
-## Video7
+## Video 6
 
-## Video8
+## Video 7
+
+## Video 8
