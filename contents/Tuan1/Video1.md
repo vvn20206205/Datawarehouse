@@ -6,15 +6,15 @@
 
 ##### Sắp xếp dữ liệu theo 1 tiêu chí
 
-![alt text](Video1/HuongDan/11.png)
+![Sắp xếp theo STT](Video1/HuongDan/11.png)
 
 ##### Sắp xếp dữ liệu nhiều tiêu chí
 
-![alt text](Video1/HuongDan/image.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image.png)
 
 ##### Sắp xếp dữ liệu theo giá trị, màu,…
 
-![alt text](Video1/HuongDan/image-1.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-1.png)
 
 <!-- ##### Sắp xếp dữ liệu theo yêu cầu đặc thù -->
 
@@ -22,47 +22,47 @@
 
 ##### Lọc dữ liệu theo 1 tiêu chí
 
-![alt text](Video1/HuongDan/image-3.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-3.png)
 
 ##### Lọc xếp dữ liệu nhiều tiêu chí
 
-![alt text](Video1/HuongDan/image-2.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-2.png)
 
 #### LỌC DỮ LIỆU NÂNG CAO
 
 ##### Lọc dữ liệu theo 1 tiêu chí
 
-![alt text](Video1/HuongDan/image-5.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-5.png)
 
 ##### Lọc xếp dữ liệu nhiều tiêu chí
 
-![alt text](Video1/HuongDan/image-6.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-6.png)
 
 #### TÁCH CỘT VĂN BẢN THÀNH NHIỀU CỘT
 
 ##### Tách ngày tháng
 
-![alt text](Video1/HuongDan/image-7.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-7.png)
 
 ##### Tách địa chỉ
 
-![alt text](Video1/HuongDan/image-8.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-8.png)
 
 ##### Tách họ và tên
 
-![alt text](Video1/HuongDan/image-9.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-9.png)
 
 #### ĐIỀN DỮ LIỆU TỰ ĐỘNG
 
-![alt text](Video1/HuongDan/image-10.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-10.png)
 
 #### XÓA DỮ LIỆU BỊ TRÙNG
 
-![alt text](Video1/HuongDan/image-11.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-11.png)
 
 #### THỐNG KÊ MÔ TẢ
 
-![alt text](Video1/HuongDan/image-12.png)
+![xxxxxxxxxxxxxxxxxxxxxxxxxxx](Video1/HuongDan/image-12.png)
 
 ### Thực hành
 
