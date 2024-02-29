@@ -1,13 +1,4 @@
-#### LỌC DỮ LIỆU
-
-##### Lọc dữ liệu theo 1 tiêu chí
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-3.png)
-
-##### Lọc xếp dữ liệu nhiều tiêu chí
-
-![xxxxxxxxxxxxxxxxxxxxxxxxxxx](HuongDan/image-2.png)
-
+ 
 <!--  -->
 
 #### LỌC DỮ LIỆU NÂNG CAO
