@@ -1,25 +1,23 @@
 ## Video 4
 
-### Hướng dẫn
+<!-- ### Hướng dẫn -->
 <!-- - Sao chép thông thường -->
-Sao chép thông thường cột thành tiền
-![alt text](image.png)
+<!-- Sao chép thông thường cột thành tiền -->
+<!-- ![alt text](image.png) -->
 <!-- - Sao chép   theo seri		 -->
- Sao chép   theo seri	số thứ tự 
-![alt text](image-2.png)
-	<!--  -->
-copy paste công thức		
-
-copy paste định dạng		
-
-copy paste giá trị		
-
-copy paste ngang->dọc		
-
-copy paste dạng ảnh		
-
-copy paste từ nguồn khác		
-
+<!-- Sao chép   theo seri	số thứ tự  -->
+<!-- ![alt text](image-2.png) -->
+<!--  -->
+<!-- copy paste công thức		 -->
+<!-- copy paste định dạng		 -->
+<!--  -->
+<!-- copy paste giá trị		 -->
+<!--  -->
+<!-- copy paste ngang->dọc		 -->
+<!--  -->
+<!-- copy paste dạng ảnh		 -->
+<!--  -->
+<!-- copy paste từ nguồn khác		 -->
 
 <!-- Trong video này, Bạn sẽ học Excel với các thao tác:
 - Sao chép công thức (copy paste formular excel)
@@ -34,4 +32,5 @@ copy paste từ nguồn khác
 -  copy and paste in excel
 - cách copy trong excel
 - paste trong excel chỉ ra định dạng text -->
+
 ### Thực hành

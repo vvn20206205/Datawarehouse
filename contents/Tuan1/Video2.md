@@ -1,42 +1,42 @@
 ## Video 2
 
-### Hướng dẫn
-
-#### Sắp xếp dữ liệu
-
-##### Sắp xếp dữ liệu theo 1 tiêu chí
-
-![Sắp xếp theo SỐ CMND](Video2/HuongDan/image.png)
-
-##### Sắp xếp dữ liệu theo nhiều tiêu chí
-
-![Sắp xếp theo SỐ CMND và số điện thoại](Video2/HuongDan/image-1.png)
-
-##### Sắp xếp dữ liệu theo giá trị, màu,…
-
-![Sắp xếp theo giá trị màu số điện thoại](Video2/HuongDan/image-2.png)
-
-##### Sắp xếp dữ liệu theo yêu cầu đặc thù
-
-![Sắp xếp theo tên và tên đệm](Video2/HuongDan/image-3.png)
-
-#### Lọc dữ liệu
-
-##### Lọc dữ liệu theo 1 tiêu chí
-
-Địa chỉ có chứa HCM
-![alt text](Video2/HuongDan/image-4.png)
-
-##### Lọc dữ liệu theo nhiều tiêu chí
-
-Sinh tháng 6 và ở HCM
-![alt text](Video2/HuongDan/image-5.png)
-
-##### Lọc dữ liệu theo yêu cầu đặc thù: control & check
-
-Bổ sung cột để lọc dữ liệu
-![alt text](Video2/HuongDan/image-6.png)
-
+<!-- ### Hướng dẫn -->
+<!--  -->
+<!-- #### Sắp xếp dữ liệu -->
+<!--  -->
+<!-- ##### Sắp xếp dữ liệu theo 1 tiêu chí -->
+<!--  -->
+<!-- ![Sắp xếp theo SỐ CMND](Video2/HuongDan/image.png) -->
+<!--  -->
+<!-- ##### Sắp xếp dữ liệu theo nhiều tiêu chí -->
+<!--  -->
+<!-- ![Sắp xếp theo SỐ CMND và số điện thoại](Video2/HuongDan/image-1.png) -->
+<!--  -->
+<!-- ##### Sắp xếp dữ liệu theo giá trị, màu,… -->
+<!--  -->
+<!-- ![Sắp xếp theo giá trị màu số điện thoại](Video2/HuongDan/image-2.png) -->
+<!--  -->
+<!-- ##### Sắp xếp dữ liệu theo yêu cầu đặc thù -->
+<!--  -->
+<!-- ![Sắp xếp theo tên và tên đệm](Video2/HuongDan/image-3.png) -->
+<!--  -->
+<!-- #### Lọc dữ liệu -->
+<!--  -->
+<!-- ##### Lọc dữ liệu theo 1 tiêu chí -->
+<!--  -->
+<!-- Địa chỉ có chứa HCM -->
+<!-- ![alt text](Video2/HuongDan/image-4.png) -->
+<!--  -->
+<!-- ##### Lọc dữ liệu theo nhiều tiêu chí -->
+<!--  -->
+<!-- Sinh tháng 6 và ở HCM -->
+<!-- ![alt text](Video2/HuongDan/image-5.png) -->
+<!--  -->
+<!-- ##### Lọc dữ liệu theo yêu cầu đặc thù: control & check -->
+<!--  -->
+<!-- Bổ sung cột để lọc dữ liệu -->
+<!-- ![alt text](Video2/HuongDan/image-6.png) -->
+<!--  -->
 ### Thực hành
 
 "Bỏ vùng trộn (merge)
