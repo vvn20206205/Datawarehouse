@@ -70,7 +70,7 @@
 
 <!-- Đóng băng tiêu đề dữ liệu" -->
 
-![alt text](1111111image.png)
+![alt text](ThucHanh/1111111image.png)
 
 <!-- Tách họ và tên bằng    công thức -->
 
