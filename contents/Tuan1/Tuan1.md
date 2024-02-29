@@ -1,9 +1,10 @@
+<!-- HuongDan -->
+<!-- ThucHanh -->
 # Tuần 1: Thực hành tiền xử lý dữ liệu (ETL) cơ bản trong Excel:
 
 ## Video 1
 
 ### Hướng dẫn
-<!-- HuongDan -->
 
 #### SẮP XẾP DỮ LIỆU
 
