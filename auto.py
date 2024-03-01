@@ -22,7 +22,4 @@ for i in png_files:
 
 
 
-# noi_dung = pyperclip.paste()
-# pattern = r'\{(.*?)\}'
-# noi_dung_trong_ngoac = re.findall(pattern, noi_dung)
-# print(noi_dung_trong_ngoac[0])
+# đổi tên bỏ đi image
