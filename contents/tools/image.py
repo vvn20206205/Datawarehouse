@@ -1,10 +1,7 @@
-import re
 import os
 import glob
 # pip install pillow
 from PIL import Image, ImageDraw, ImageFont
-#  pip install  pyperclip
-import pyperclip
 
 
 def chen_van_ban_vao_anh(duong_dan_anh):
@@ -19,5 +16,3 @@ root = r"../../"
 png_files = glob.glob(os.path.join(root, "**/*.png"), recursive=True)
 for i in png_files:
     chen_van_ban_vao_anh(i)
-
-
