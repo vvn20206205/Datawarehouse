@@ -1,12 +1,19 @@
 {
 	"folders": [
 		{
+			"name": "Datawarehouse",
 			"path": "."
 		},
 		{
+			"name": "contents",
 			"path": "contents"
 		},
 		{
+			"name": "tools",
+			"path": "contents/tools"
+		},
+		{
+			"name": "Tuan1",
 			"path": "contents/Tuan1"
 		}
 	],
