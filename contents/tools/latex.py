@@ -1,10 +1,5 @@
-# # import re
 import os
 import glob
-# # # pip install pillow
-# # from PIL import Image, ImageDraw, ImageFont
-# # #  pip install  pyperclip
-# # import pyperclip
 
 
 def format(path):
