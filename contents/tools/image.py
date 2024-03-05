@@ -15,11 +15,9 @@ def chen_van_ban_vao_anh(duong_dan_anh):
     anh.save(duong_dan_anh)
 
 
-root = r"C:\Users\vvn20206205\Desktop\20232\Datawarehouse"
+root = r"../../"
 png_files = glob.glob(os.path.join(root, "**/*.png"), recursive=True)
 for i in png_files:
     chen_van_ban_vao_anh(i)
 
 
-
-# đổi tên bỏ đi image

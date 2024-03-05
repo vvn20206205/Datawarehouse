@@ -15,7 +15,7 @@ import glob
 #     anh.save(duong_dan_anh)
 
 
-root = r"C:\Users\vvn20206205\Desktop\20232\Datawarehouse"
+root = r"../../"
 tex_files = glob.glob(os.path.join(root, "**/*.tex"), recursive=True)
 for i in tex_files:
     print("🚀 Giá trị của i:", i)
