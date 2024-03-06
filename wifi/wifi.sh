@@ -43,18 +43,14 @@ echo "Xong phpmyadmin"
 # docker load -i wifi/image/pgadmin4_image.tar
 # echo "Xong pgadmin4"
 
-
 # echo "Tải latex"
 # docker pull         blang/latex:latest
 # docker save -o wifi/image/latex_image.tar  blang/latex:latest
 # docker load -i wifi/image/latex_image.tar
 # echo "Xong latex"
 
-
-
-
 echo "Tải jenkins"
-docker pull  jenkins/jenkins
-docker save -o wifi/image/jenkins_image.tar jenkins/jenkins
+# docker pull jenkins/jenkins:lts
+# docker save -o wifi/image/jenkins_image.tar jenkins/jenkins:lts
 docker load -i wifi/image/jenkins_image.tar
 echo "Xong jenkins"
