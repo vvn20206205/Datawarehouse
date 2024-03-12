@@ -21,6 +21,9 @@
 \caption{Hướng dẫn tiền xử lý dữ liệu}
 ![alt text](Bai1/HuongDan/9.png)
 
+\caption{Thực hành             tiền xử lý dữ liệu}
+\caption{Thực hành             tạo báo cáo tổng hợp hợp đồng lao động }
+\caption{Thực hành             làm mới dữ liệu báo cáo }
 <!--@ \subsection{Bài 2} -->
 
 <!--@ \subsection{Bài 3} -->
