@@ -1,13 +1,13 @@
 <!--@ \subsection{Bai 1} -->
 
 \caption{Hướng dẫn tạo báo cáo tổng hợp nhân sự và quỹ lương }
-![alt text](0.png)
+![alt text](Bai1/HuongDan/0.png)
 \caption{Hướng dẫn tạo báo cáo tổng hợp hợp đồng lao động }
-![alt text](1.png)
+![alt text](Bai1/HuongDan/1.png)
 \caption{Hướng dẫn làm mới dữ liệu báo cáo }
-![alt text](2.png)
+![alt text](Bai1/HuongDan/2.png)
 \caption{Hướng dẫn lấy dữ liệu chi tiết từ báo cáo  }
-![alt text](3.png)
+![alt text](Bai1/HuongDan/3.png)
 \caption{Hướng dẫn  định dạng dữ liệu trên   báo cáo  }
 
 <!-- 5		Thêm các cột/dòng tổng hợp -->
