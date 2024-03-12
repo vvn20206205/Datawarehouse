@@ -9,33 +9,18 @@
 \caption{Hướng dẫn lấy dữ liệu chi tiết từ báo cáo  }
 ![alt text](Bai1/HuongDan/3.png)
 \caption{Hướng dẫn  định dạng dữ liệu trên   báo cáo  }
-![alt text](image.png)
+![alt text](Bai1/HuongDan/4.png)
 \caption{Hướng dẫn  thêm các cột/dòng tổng hợp }
-![alt text](image-1.png)
+![alt text](Bai1/HuongDan/5.png)
 \caption{Hướng dẫn  tùy chỉnh báo cáo dạng cổ điển}
-![alt text](image-2.png)
+![alt text](Bai1/HuongDan/6.png)
 \caption{Hướng dẫn  tùy chỉnh công thức tính }
-![alt text](image-3.png)
+![alt text](Bai1/HuongDan/7.png)
 \caption{Hướng dẫn nhóm các loại dữ liệu (dạng ngày tháng)}
-![alt text](image-4.png)
+![alt text](Bai1/HuongDan/8.png)
+\caption{Hướng dẫn tiền xử lý dữ liệu}
+![alt text](Bai1/HuongDan/9.png)
 
-
-\caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
-
-\caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
-
-
-
-\caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
-
-\caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
-
-
-
-<!-- II	Nâng cao và thực tiễn	 -->
-<!-- 9		Tiền xử lý dữ liệu -->
-<!-- 10		Bổ sung các cột dữ liệu để làm báo cáo tổng hợp -->
-<!-- 11		Các tầng dữ liệu -->
 
 
 <!--@ \subsection{Bai 2} -->
