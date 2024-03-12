@@ -1,4 +1,4 @@
-<!--@ \subsection{Bai 1} -->
+<!--@ \subsection{Bài 1} -->
 
 \caption{Hướng dẫn tạo báo cáo tổng hợp nhân sự và quỹ lương }
 ![alt text](Bai1/HuongDan/0.png)
@@ -23,7 +23,7 @@
 
 
 
-<!--@ \subsection{Bai 2} -->
+<!--@ \subsection{Bài 2} -->
 
-<!--@ \subsection{Bai 3} -->
+<!--@ \subsection{Bài 3} -->
 \caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
