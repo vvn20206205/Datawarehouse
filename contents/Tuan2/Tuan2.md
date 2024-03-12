@@ -22,11 +22,11 @@
 ![alt text](Bai1/HuongDan/9.png)
 
 \caption{Thực hành             tiền xử lý dữ liệu}
-![alt text](image.png)
+![alt text](Bai1/ThucHanh/0.png)
 \caption{Thực hành             tạo báo cáo tổng hợp }
-![alt text](image-1.png)
+![alt text](Bai1/ThucHanh/1.png)
 \caption{Thực hành             làm mới dữ liệu báo cáo }
-![alt text](image-2.png)
+![alt text](Bai1/ThucHanh/2.png)
 <!--@ \subsection{Bài 2} -->
 
 <!--@ \subsection{Bài 3} -->
