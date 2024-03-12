@@ -22,8 +22,11 @@
 ![alt text](Bai1/HuongDan/9.png)
 
 \caption{Thực hành             tiền xử lý dữ liệu}
-\caption{Thực hành             tạo báo cáo tổng hợp hợp đồng lao động }
+![alt text](image.png)
+\caption{Thực hành             tạo báo cáo tổng hợp }
+![alt text](image-1.png)
 \caption{Thực hành             làm mới dữ liệu báo cáo }
+![alt text](image-2.png)
 <!--@ \subsection{Bài 2} -->
 
 <!--@ \subsection{Bài 3} -->
