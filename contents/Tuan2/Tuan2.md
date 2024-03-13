@@ -1,4 +1,3 @@
-\subsection{Bài 3}
 
 Sử dụng công cụ pivot trong Excel để làm 5 báo cáo khác nhau trên 1 sheet
 
