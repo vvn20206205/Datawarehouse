@@ -13,6 +13,7 @@
 ![alt text](image-1.png)
 
 \caption{Hướng dẫn làm đồ thị trong 60s (với Pilot Table)}
+![alt text](image-2.png)
 
 <!--@ \subsection{Bài 3} -->
 
