@@ -1,19 +1,19 @@
 <!--@ \subsection{Bài 2} -->
 
 \caption{Hướng dẫn xử lý dữ liệu để vẽ được đồ thị }
-![alt text](0.png)
+![alt text](Bai2/HuongDan/0.png)
 
 \caption{Hướng dẫn vẽ được đồ thị với dữ liệu}
-![alt text](1.png)
+![alt text](Bai2/HuongDan/1.png)
 
 \caption{Hướng dẫn làm việc với mẫu đồ thị (Chart Layout)}
-![alt text](image.png)
+![alt text](Bai2/HuongDan/2.png)
 
 \caption{Hướng dẫn làm việc với Layout}
-![alt text](image-1.png)
+![alt text](Bai2/HuongDan/3.png)
 
 \caption{Hướng dẫn làm đồ thị trong 60s (với Pilot Table)}
-![alt text](image-2.png)
+![alt text](Bai2/HuongDan/4.png)
 
 <!--@ \subsection{Bài 3} -->
 
