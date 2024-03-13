@@ -1,17 +1,25 @@
 <!--@ \subsection{Bài 2} -->
-<!--                   Xử lý dữ liệu để vẽ được đồ thị                                                       -->
 
+\caption{Hướng dẫn xử lý dữ liệu để vẽ được đồ thị }
 ![alt text](0.png)
 
-<!--                   Làm việc với dữ liệu (Data)                                                       -->
-
+\caption{Hướng dẫn vẽ được đồ thị với dữ liệu}
 ![alt text](1.png)
 
-<!--                   Làm việc với mẫu đồ thị (Chart Layout)                                                       -->
+\caption{Hướng dẫn làm việc với mẫu đồ thị (Chart Layout)}
+![alt text](image.png)
 
-<!--                   Làm việc với Layout                                                       -->
+\caption{Hướng dẫn làm việc với Layout}
+![alt text](image-1.png)
+
+\caption{Hướng dẫn làm đồ thị trong 60s (với Pilot Table)}
 
 <!--@ \subsection{Bài 3} -->
 
 \caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
+
+
+
+6	Làm đồ thị trong 60s (với Pilot Table)		
+7	Cập nhật dữ liệu trên đồ thị khi bảng thay đổi dữ liệu		

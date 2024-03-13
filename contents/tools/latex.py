@@ -6,6 +6,9 @@ def format(path):
     with open(path, 'r', encoding="utf-8") as file:
         contents = file.read()
 
+    while "	" in contents:
+        contents = contents.replace("	", ' ')
+
     while ' ,' in contents:
         contents = contents.replace(' ,', ',')
     contents = contents.replace(',', ', ')
