@@ -17,13 +17,13 @@
 
 
 \caption{Thực hành vẽ đồ thị giao nhau}
-![alt text](Bai2/ThucHanh/image.png)
+![alt text](Bai2/ThucHanh/0.png)
 \caption{Thực hành vẽ đồ thị tần suất và tích lũy}
-![alt text](Bai2/ThucHanh/image-1.png)
+![alt text](Bai2/ThucHanh/1.png)
 \caption{Thực hành vẽ đồ thị hình bánh}
-![alt text](Bai2/ThucHanh/image-2.png)
+![alt text](Bai2/ThucHanh/2.png)
 \caption{Thực hành vẽ đồ thị hình bánh của hình bánh}
-![alt text](Bai2/ThucHanh/image-3.png)
+![alt text](Bai2/ThucHanh/3.png)
 
 <!--@ \subsection{Bài 3} -->
 
