@@ -1,4 +1,4 @@
-<!--@ \subsection{Bài 2} -->
+\subsection{Bài 2}
 
 \caption{Hướng dẫn xử lý dữ liệu để vẽ được đồ thị }
 ![alt text](Bai2/HuongDan/0.png)
@@ -15,12 +15,17 @@
 \caption{Hướng dẫn làm đồ thị trong 60s (với Pilot Table)}
 ![alt text](Bai2/HuongDan/4.png)
 
+
+\caption{Thực hành vẽ đồ thị giao nhau}
+![alt text](Bai2/ThucHanh/image.png)
+\caption{Thực hành vẽ đồ thị tần suất và tích lũy}
+![alt text](Bai2/ThucHanh/image-1.png)
+\caption{Thực hành vẽ đồ thị hình bánh}
+![alt text](Bai2/ThucHanh/image-2.png)
+\caption{Thực hành vẽ đồ thị hình bánh của hình bánh}
+![alt text](Bai2/ThucHanh/image-3.png)
+
 <!--@ \subsection{Bài 3} -->
 
 \caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
-
-
-
-6	Làm đồ thị trong 60s (với Pilot Table)		
-7	Cập nhật dữ liệu trên đồ thị khi bảng thay đổi dữ liệu		
