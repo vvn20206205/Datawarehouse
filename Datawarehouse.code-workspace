@@ -5,16 +5,8 @@
 			"path": "."
 		},
 		{
-			"name": "contents",
-			"path": "contents"
-		},
-		{
 			"name": "tools",
 			"path": "contents/tools"
-		},
-		{
-			"name": "Tuan2",
-			"path": "contents/Tuan2"
 		},
 		{
 			"path": "contents/Tuan3"
