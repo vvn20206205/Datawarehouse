@@ -15,5 +15,9 @@
 			"path": "contents/Tuan4"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"latex-workshop.latex.autoBuild.run": "onFileChange"
+		// "latex-workshop.latex.autoBuild.run": "never",
+
+	}
 }

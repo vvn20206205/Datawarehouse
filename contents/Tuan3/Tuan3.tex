@@ -74,69 +74,58 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Bài 2}
 
-% % @ \subsubsection{Thực hành tạo dashboard}
+ \subsubsection{ Viết Requirement cần phân tích}
+ Các yêu cầu phân tích:
 
-% % \begin{figure}[H]
-% % \centering
-% % @ \includegraphics[scale = 0.15]{Bai1/ThucHanh/0.png}
-% % \caption{Thực hành tạo dashboard}
-% % \end{figure}
+ \begin{itemize}
+\item      Tổng doanh thu theo giảm giá
+\item      Tình trạng đơn hàng
+\item      Doanh thu theo địa lý
+\item      Tổng số lượng đơn hàng
+\item      Tổng số lượng khách hàng
+\item      Tổng số lượng đơn hàng
+    \end{itemize}
 
-% \subsubsection{Thực hành phân tích dashboard}
-% % Viết Requirement cần phân tích
-% Chúng tôi cần ccccc
-% Để viết các yêu cầu phân tích cho tập tin Excel có các tiêu đề như trên, bạn cần xác định mục tiêu cụ thể của việc phân tích dữ liệu. Dưới đây là một số yêu cầu phân tích mẫu dựa trên thông tin đã cung cấp:
+    \subsubsection{ Xác định các DIM, FACT}
 
-% 1. **Yêu cầu tổng quan:**
-% - Phân tích dữ liệu đơn hàng để hiểu về hoạt động kinh doanh của công ty.
-% - Tìm hiểu về xu hướng bán hàng, doanh số, và hiệu suất bán hàng theo thời gian, sản phẩm, v.v.
 
-% 2. **Phân tích về đơn hàng:**
-% - Xác định số lượng đơn hàng được đặt hàng (QUANTITYORDERED) và giá trị đơn hàng (SALES).
-% - Phân tích xu hướng đặt hàng theo thời gian (ORDERDATE).
-% - Phân tích tình trạng đơn hàng (STATUS) để hiểu về tình hình xử lý đơn hàng.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale = 0.15]{Bai2/ThucHanh/DIM-FACT.png}
+        \caption{Thực hành tạo dashboard}
+        \end{figure}
+    \subsubsection{ Vẽ voi DIM}
+        
+       
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale = 0.15]{Bai2/ThucHanh/voi.png}
+        \caption{Thực hành tạo dashboard}
+        \end{figure}
 
-% 3. **Phân tích về sản phẩm:**
-% - Đánh giá hiệu suất bán hàng của các dòng sản phẩm (PRODUCTLINE) dựa trên doanh số và số lượng đặt hàng.
-% - So sánh giá bán thực tế (PRICEEACH) với giá đề xuất (MSRP) để đánh giá chính sách giá và chiến lược giá cả.
 
-% 4. **Phân tích về khách hàng:**
-% - Phân tích khách hàng dựa trên thông tin như tên khách hàng (CUSTOMERNAME), số điện thoại (PHONE), và địa chỉ (ADDRESS).
-% - Đánh giá doanh số bán hàng của từng khách hàng và tìm hiểu về mối quan hệ với khách hàng.
 
-% 5. **Phân tích về địa lý:**
-% - Phân tích phân phối địa lý của khách hàng (CITY, STATE, COUNTRY) để hiểu về thị trường tiềm năng và mối quan hệ địa lý.
+ \subsubsection{Xây dựng một dashboard trên dữ liệu này theo requirement}
 
-% 6. **Phân tích về thời gian:**
-% - Phân tích doanh số bán hàng theo quý (QTR_ID), tháng (MONTH_ID), và năm (YEAR_ID) để nhận biết xu hướng theo mùa và các thay đổi theo thời gian.
+\begin{figure}[H]
+\centering
+\includegraphics[scale = 0.15]{Bai2/ThucHanh/dashboard.png}
+\caption{Thực hành tạo dashboard}
+\end{figure}
+ 
 
-% 7. **Phân tích về kích thước giao dịch:**
-% - Phân tích kích thước giao dịch (DEALSIZE) để hiểu về phân phối các giao dịch theo kích thước và phân loại giao dịch.
 
-% 8. **Phân tích về sales và marketing:**
-% - Đánh giá hiệu suất của các chiến dịch marketing dựa trên doanh số bán hàng và số lượng đơn hàng.
 
-% 9. **Phân tích về quốc gia và khu vực:**
-% - So sánh hiệu suất bán hàng giữa các quốc gia và khu vực (COUNTRY, TERRITORY) để xác định các thị trường tiềm năng và mối quan hệ kinh doanh.
 
-% 10. **Phân tích về thông tin liên lạc:**
-% - Phân tích thông tin liên lạc của khách hàng (CONTACTLASTNAME, CONTACTFIRSTNAME) để hiểu về mối quan hệ với khách hàng và quản lý danh sách liên lạc.
+\subsubsection{Phân tích trên dashboard vừa xây dựng}
+ 
+\begin{itemize} 
 
-% Mỗi yêu cầu phân tích này có thể được mở rộng và tùy chỉnh phù hợp với mục tiêu kinh doanh cụ thể của bạn.
-
-% % Xác định các DIM, FACT
-% hình ....
-% text ....
-
-% % Vẽ voi DIM
-% hình ....
-
-% % Xây dựng một dashboard trên dữ liệu này theo requirement
-% vẽ excel ....
-
-% % Phân tích trên dashboard vừa xây dựng
-% .....
-
+    \item  Dashboard hiển thị nhiều dữ liệu hữu ích: tổng doanh số bán hàng của công ty mỗi năm từ 2003-2005, có thể lọc theo tháng và quốc gia.
+    \item  Doanh số của size trung bình là lớn nhất.
+    \item  Ta thấy qua các năm, doanh số tăng nhẹ, điều này là do cuộc sống ngày càng đi lên nên nhu cầu tăng thêm.
+  
+        \end{itemize} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
