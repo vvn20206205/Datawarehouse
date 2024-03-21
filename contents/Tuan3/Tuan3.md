@@ -1,13 +1,13 @@
 <!-- 🍀 2. Viết Requirement cần phân tích -->
-
+chịu
 <!-- 🍀 3. Xác định các DIM, FACT -->
-
+từ hình suy ra
 <!-- 🍀 4. Vẽ voi DIM -->
-
+xem thêm
 <!-- 🍀 5. Xây dựng một dashboard trên dữ liệu này theo requirement. -->
-
+vẽ hình
 <!-- 🍀 6. Phân tích trên dashboard vừa xây dựng. -->
-
+pt...
 <!--  -->
 
 SỐ ĐẶT HÀNG
