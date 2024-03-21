@@ -9,15 +9,10 @@
 			"path": "contents/tools"
 		},
 		{
-			"path": "contents/Tuan3"
-		},
-		{
 			"path": "contents/Tuan4"
 		}
 	],
 	"settings": {
-		"latex-workshop.latex.autoBuild.run": "onFileChange"
-		// "latex-workshop.latex.autoBuild.run": "never",
-
+		// "latex-workshop.latex.autoBuild.run": "onFileChange"
 	}
 }
