@@ -13,49 +13,17 @@ Tổng số lượng đơn hàng
 
 
 
-<!--  -->
-<!--  -->
-Lọc Năm
-Lọc Vị trí
-
-<!-- Tổng đơn hàng -->
-<!-- Tổng khách hàng -->
-<!-- Tổng doanh thu -->
-
-Tình trạng đơn hàng
-
-Tổng doanh thu theo bản đồ
-
-Tổng doanh thu theo mặt hàng
-
-
-
-<!-- QTR, MONTH, YEAR -->
-<!-- CITY, STATE, COUNTRY, TERRITORY -->
-<!-- PRODUCTLINE, DEALSIZE -->
-
-
-
-
-
-
-Giảm giá = DEALSIZE
-Tình trạng đơn hàng = STATUS
-
-
 
 
 
 <!-- 🍀 4. Vẽ voi DIM -->
 
-xem thêm 2
+
 
 <!-- 🍀 5. Xây dựng một dashboard trên dữ liệu này theo requirement. -->
 
 
-<!-- ![alt text](image.png) -->
-![alt text](image-1.png)
-![alt text](Bai2/ThucHanh/image-2.png)
+![alt text](Bai2/ThucHanh/dashboard.png)
 <!-- 🍀 6. Phân tích trên dashboard vừa xây dựng. -->
 
 pt... 4
