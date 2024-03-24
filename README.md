@@ -1,4 +1,3 @@
-<!-- 4.1 làm như video -->
 
 <!-- 4.2  -->
 Thực hành 4.2: Xây dựng Mô hình cho đơn vị mình

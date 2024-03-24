@@ -1,9 +1,5 @@
-
-Sử dụng công cụ pivot trong Excel để làm 5 báo cáo khác nhau trên 1 sheet
-
-
-Tạo công cụ Slicer
-
+<!-- 4.1 làm như video -->
+ 
 
 
 
